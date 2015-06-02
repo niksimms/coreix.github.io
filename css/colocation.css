@@ -1,0 +1,48 @@
+		.submenu {
+		font-family: 'Montserrat', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #0054a6;
+  display: inline-block;
+  margin: 24px 0px 16px 0px;
+  color: #fff;
+  font-size: 11px;
+  margin: 0;
+  padding: 18px 24px;
+  transition: all 0.2s ease;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  opacity: 0.7;
+  
+
+  }
+  .submenu li {
+	  padding: 15px;
+  }
+  .submenu li a {
+	  color: #121212;
+  }
+		</style>
+
+
+.hbl_pal_title_bg {
+  background-color: #678647!important;
+}
+.hbl_pal_offline_submit_bg {
+  background-color: #678647!important;
+}
+	#habla_window_div.olrk-fixed-bottom .habla_panel_border, #habla_window_div.olrk-fixed-bottom #habla_topbar_div {
+  -moz-border-radius-topleft: 0px;
+  -moz-border-radius-topright: 0px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+	}
+</style>
+
+<style>
+.gradient-overlay:before {
+ 	background: #769259;
+}
+.overlay-primary:before {
+	background: #769259;
+}
