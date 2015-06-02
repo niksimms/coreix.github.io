@@ -1,0 +1,44 @@
+.hbl_pal_title_bg {
+  background-color: #cf832e!important;
+}
+.hbl_pal_offline_submit_bg {
+  background-color: #cf832e!important;
+}
+	#habla_window_div.olrk-fixed-bottom .habla_panel_border, #habla_window_div.olrk-fixed-bottom #habla_topbar_div {
+  -moz-border-radius-topleft: 0px;
+  -moz-border-radius-topright: 0px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+	}
+	
+	.overlay-light-gradient:before {
+  opacity: 0.9;
+  background: linear-gradient(to right, #cf832e 30%, rgba(207,131,46, 0) 100%);
+}
+
+.avatar {
+
+border-radius: 50%;
+
+-moz-border-radius: 50%;
+
+-webkit-border-radius: 50%;
+
+}
+
+
+.gradient-overlay:before {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  content: '';
+  background: #ffffff;
+  opacity: 1;
+  z-index: 2;
+}
+
+.hero-slider .slides li {
+  height: 550px;
+  background: #ffffff;
+}
+
