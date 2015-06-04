@@ -1,0 +1,12 @@
+.hbl_pal_title_bg {
+  background-color: #a163a9!important;
+}
+.hbl_pal_offline_submit_bg {
+  background-color: #a163a9!important;
+}
+	#habla_window_div.olrk-fixed-bottom .habla_panel_border, #habla_window_div.olrk-fixed-bottom #habla_topbar_div {
+  -moz-border-radius-topleft: 0px;
+  -moz-border-radius-topright: 0px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+	}
