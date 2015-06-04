@@ -3,11 +3,16 @@ layout: public-and-private-cloud
 title: Public Cloud - Coreix
 ---
 
+<!-- Main page title -->
+<!-- Edit title="" for the page title -->
 {% include title.html title="Public Cloud" variable-param=page.variable %}
 
+<!-- Start page article -->
+<!-- Include <h></h> tags and <p></p> tags after {% include article/start.html %} -->
 {% include article/start.html %}
-
+  
   <h4>Title goes here</h4>
   <p>Insert content here</p>
 
-{% include article/start.html %}
+<!-- Do not include article content after {% include article/end.html %} -->
+{% include article/end.html %}
