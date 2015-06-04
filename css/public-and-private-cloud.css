@@ -1,0 +1,19 @@
+ .hbl_pal_title_bg {
+  background-color: #56aadb!important;
+}
+.hbl_pal_offline_submit_bg {
+  background-color: #56aadb!important;
+}
+	#habla_window_div.olrk-fixed-bottom .habla_panel_border, #habla_window_div.olrk-fixed-bottom #habla_topbar_div {
+  -moz-border-radius-topleft: 0px;
+  -moz-border-radius-topright: 0px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+	}
+
+.pricing-table-2:hover {
+  background: #56aadb;
+}
+.pricing-table-2 {
+  border: 1px solid #ffffff;
+}
