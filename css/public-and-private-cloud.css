@@ -17,3 +17,14 @@
 .pricing-table-2 {
   border: 1px solid #ffffff;
 }
+.fullwidth-feature .top {
+  border-right: 0px solid #006ed9;
+}
+.fullwidth-features {
+  padding: 0px;
+  background: #ffffff !important;
+  position: relative;
+  overflow: visible;
+  min-height: 250px;
+  padding-bottom: 200px;
+}
